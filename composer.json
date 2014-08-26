@@ -1,5 +1,5 @@
 {
-    "name": "gardenofconcepts/monolog-extension",
+    "name": "goc/monolog-extension",
     "description": "Monolog extension for Behat",
     "keywors": ["behat", "bdd", "monolog"],
     "homepage": "https://github.com/gardenofconcepts/MonologExtension",

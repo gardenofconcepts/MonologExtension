@@ -1,18 +1,18 @@
 {
-    "name": "swestcott/monolog-extension",
+    "name": "gardenofconcepts/monolog-extension",
     "description": "Monolog extension for Behat",
     "keywors": ["behat", "bdd", "monolog"],
-    "homepage": "https://github.com/swestcott/MonologExtension",
+    "homepage": "https://github.com/gardenofconcepts/MonologExtension",
     "license": "New BSD license",
     "authors": [
         {
-            "name": "Simon Westcott",
-            "email": "swestcott@gmail.com"
+            "name": "Christian Otter",
+            "email": "otter@gardenofconcepts.com"
         }
     ],
     "require": {
         "php": ">=5.3.6",
-        "behat/behat": ">=2.4.0,<2.5.0-dev",
+        "behat/behat": "~2.5",
         "symfony/config": "~2.0",
         "symfony/dependency-injection": "~2.0",
         "monolog/monolog": "1.3.*"
